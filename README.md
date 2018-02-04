@@ -1,2 +1,1 @@
-# Data-Visualization
-This repo contains some of the visualizations I have created.
+The repo contains some of the visualizations I have created using Tableau.
